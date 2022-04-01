@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/PALMAGWAPO/static/css/main.d7d54f45.css",
-    "main.js": "/PALMAGWAPO/static/js/main.9439c040.js",
-    "static/media/possibility.png": "/PALMAGWAPO/static/media/possibility.73f9e93ff68865d48072.png",
-    "static/media/Logo.png": "/PALMAGWAPO/static/media/Logo.313d67d07158eea3405f.png",
-    "static/media/blog04.jpeg": "/PALMAGWAPO/static/media/blog04.0bdc581b1564b5436e32.jpeg",
-    "static/media/blog01.jpeg": "/PALMAGWAPO/static/media/blog01.1c8a96b8c1f4fdaf4926.jpeg",
-    "static/media/blog05.jpeg": "/PALMAGWAPO/static/media/blog05.eda0e1219d6dfc0d835c.jpeg",
-    "static/media/ai.png": "/PALMAGWAPO/static/media/ai.47709ff346f7b858934a.png",
-    "static/media/blog03.jpeg": "/PALMAGWAPO/static/media/blog03.7f7d0983728db8021e77.jpeg",
-    "static/media/blog02.jpeg": "/PALMAGWAPO/static/media/blog02.249f7136bdb1088b645b.jpeg",
-    "static/media/people.png": "/PALMAGWAPO/static/media/people.5cd2d6fbcd48bd63f106.png",
-    "index.html": "/PALMAGWAPO/index.html",
-    "main.d7d54f45.css.map": "/PALMAGWAPO/static/css/main.d7d54f45.css.map",
-    "main.9439c040.js.map": "/PALMAGWAPO/static/js/main.9439c040.js.map"
+    "main.css": "/jvdp1/static/css/main.d7d54f45.css",
+    "main.js": "/jvdp1/static/js/main.30ba0b16.js",
+    "static/media/possibility.png": "/jvdp1/static/media/possibility.73f9e93ff68865d48072.png",
+    "static/media/Logo.png": "/jvdp1/static/media/Logo.313d67d07158eea3405f.png",
+    "static/media/blog04.jpeg": "/jvdp1/static/media/blog04.0bdc581b1564b5436e32.jpeg",
+    "static/media/blog01.jpeg": "/jvdp1/static/media/blog01.1c8a96b8c1f4fdaf4926.jpeg",
+    "static/media/blog05.jpeg": "/jvdp1/static/media/blog05.eda0e1219d6dfc0d835c.jpeg",
+    "static/media/ai.png": "/jvdp1/static/media/ai.47709ff346f7b858934a.png",
+    "static/media/blog03.jpeg": "/jvdp1/static/media/blog03.7f7d0983728db8021e77.jpeg",
+    "static/media/blog02.jpeg": "/jvdp1/static/media/blog02.249f7136bdb1088b645b.jpeg",
+    "static/media/people.png": "/jvdp1/static/media/people.5cd2d6fbcd48bd63f106.png",
+    "index.html": "/jvdp1/index.html",
+    "main.d7d54f45.css.map": "/jvdp1/static/css/main.d7d54f45.css.map",
+    "main.30ba0b16.js.map": "/jvdp1/static/js/main.30ba0b16.js.map"
   },
   "entrypoints": [
     "static/css/main.d7d54f45.css",
-    "static/js/main.9439c040.js"
+    "static/js/main.30ba0b16.js"
   ]
 }
